@@ -1,6 +1,6 @@
 # Belén's Pomodoro Timer
 
-eact + Vite para practicar hooks en React con:
+React + Vite para practicar hooks en React con:
 
 * useState
 * useEffect
