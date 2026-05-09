@@ -1,27 +1,9 @@
-# Belén's Pomodoro Timer
-
-eact + Vite para practicar hooks en React con:
-
-* useState
-* useEffect
-* useRef
-
----
-
-# Tecnologías utilizadas
-
-* React
-* Vite
-* JavaScript
-* CSS
-
----
 
 # Fase 1 
 
 En esta primera fase realicé:
 
-![Fase 1](./public/B_Timer1.png)
+![Fase 1](./assets/B_Timer1.png)
 
 ---
 
@@ -29,7 +11,7 @@ En esta primera fase realicé:
 
 En esta fase se realicé:
 
-![Fase 2](./public/B_Timer2.png)
+![Fase 2](./assets/B_Timer2.png)
 
 ---
 
@@ -37,7 +19,7 @@ En esta fase se realicé:
 
 En la última fase se realicé:
 
-![Fase 3](./public/B_Timer3.png)
+![Fase 3](./assets/B_Timer3.png)
 
 ---
 
