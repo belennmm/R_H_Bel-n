@@ -29,7 +29,7 @@ En esta primera fase realicé:
 
 En esta fase se realicé:
 
-![Fase 2](./React/assetes/B_Timer2.png)
+![Fase 2](./React/assets/B_Timer2.png)
 
 ---
 
