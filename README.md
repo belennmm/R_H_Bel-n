@@ -21,7 +21,7 @@ eact + Vite para practicar hooks en React con:
 
 En esta primera fase realicé:
 
-![Fase 1](./public/B_Timer1.png)
+![Fase 1](./React/public/B_Timer1.png)
 
 ---
 
@@ -29,7 +29,7 @@ En esta primera fase realicé:
 
 En esta fase se realicé:
 
-![Fase 2](./public/B_Timer2.png)
+![Fase 2](./React/public/B_Timer2.png)
 
 ---
 
@@ -37,7 +37,7 @@ En esta fase se realicé:
 
 En la última fase se realicé:
 
-![Fase 3](./public/B_Timer3.png)
+![Fase 3](./React/public/B_Timer3.png)
 
 ---
 
